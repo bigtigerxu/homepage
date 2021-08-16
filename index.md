@@ -2,12 +2,15 @@
 
 My name is Hu Xu(徐虎). Welcome to my homepage!
 
-I am currently a M.S. student in the [College of Computer Science and Technology](http://cs.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/), advised by Prof. [Kun Zhu](http://inet-nuaa.cn/kunzhu/). Before that, I have finished my undergraduate study at Nanjing University of Aeronautics and Astronautics, and received my B.E. degree in July 2019.
+I am currently a M.S. student in the [College of Computer Science and Technology](http://cs.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/), advised by Prof. [Kun Zhu](http://inet-nuaa.cn/kunzhu/). Before that, I have finished my undergraduate study at Nanjing University of Aeronautics and Astronautics, and received my B.E. degree in July 2019. I am currently doing an internship at [Tencent](https://www.tencent.com/zh-cn), researching the application of reinforcement learning in games.
 
 I am working on reinforcement learning and its applications.
 
 ### Publications
 [Co-imitation Learning without Expert Demonstration](https://arxiv.org/abs/2103.14823v1)
+Deep Reinforcement Learning for Resource Allocation in Multi-Platoon Vehicular Networks(WASA 2021)
+Reinforcement Learning for Trajectory Design in Cache-enabled UAV-assisted Cellular Networks(GLOBALCOM 2021)
+Multi-objective Mobile Charging Scheduling on the Internet of Electric Vehicles: a DRL Approach(GLOBALCOM 2021)
 ### Contact me
 
 Phone: +86 15851852606
