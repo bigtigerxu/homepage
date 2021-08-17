@@ -11,8 +11,6 @@ I am working on reinforcement learning and its applications. Now I am an intern 
 
 Deep Reinforcement Learning for Resource Allocation in Multi-Platoon Vehicular Networks(WASA 2021)
 
-Reinforcement Learning for Trajectory Design in Cache-enabled UAV-assisted Cellular Networks(GLOBALCOM 2021)
-
 Multi-objective Mobile Charging Scheduling on the Internet of Electric Vehicles: a DRL Approach(GLOBALCOM 2021)
 ### Contact me
 
