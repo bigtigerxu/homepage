@@ -9,7 +9,7 @@ I am working on reinforcement learning and its applications. Now I am an intern 
 ### Publications
 [Co-imitation Learning without Expert Demonstration](https://arxiv.org/abs/2103.14823v1)
 
-Deep Reinforcement Learning for Resource Allocation in Multi-Platoon Vehicular Networks(WASA 2021)
+[Deep Reinforcement Learning for Resource Allocation in Multi-Platoon Vehicular Networks(WASA 2021)](https://link.springer.com/chapter/10.1007%2F978-3-030-86130-8_32)
 
 Multi-objective Mobile Charging Scheduling on the Internet of Electric Vehicles: a DRL Approach(GLOBALCOM 2021)
 ### Contact me
