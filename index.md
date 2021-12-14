@@ -12,6 +12,8 @@ I am working on reinforcement learning and its applications. Now I am an intern 
 [Deep Reinforcement Learning for Resource Allocation in Multi-Platoon Vehicular Networks(WASA 2021)](https://link.springer.com/chapter/10.1007%2F978-3-030-86130-8_32)
 
 Multi-objective Mobile Charging Scheduling on the Internet of Electric Vehicles: a DRL Approach(GLOBALCOM 2021)
+
+Reinforcement Learning for Trajectory Design in Cache-enabled UAV-assisted Cellular Networks(WCNC 2021)
 ### Contact me
 
 Phone: +86 15851852606
