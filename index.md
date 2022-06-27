@@ -13,9 +13,7 @@ I am working on reinforcement learning and its applications. Now I am an intern 
 
 [Multi-objective Mobile Charging Scheduling on the Internet of Electric Vehicles: a DRL Approach(GLOBALCOM 2021)](https://ieeexplore.ieee.org/document/9685354)
 
-Reinforcement Learning for Trajectory Design in Cache-enabled UAV-assisted Cellular Networks(WCNC 2022)
+[Reinforcement Learning for Trajectory Design in Cache-enabled UAV-assisted Cellular Networks(WCNC 2022)](https://ieeexplore.ieee.org/abstract/document/9771712)
 ### Contact me
-
-Phone: +86 15851852606
 
 Email: xuhu1998@nuaa.edu.cn
